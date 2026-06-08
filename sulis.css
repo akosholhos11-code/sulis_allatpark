@@ -38,13 +38,7 @@ filter: drop-shadow(0px 0px 15px green);
     padding: 10px;
 }
 
-.keretes
-{
-    border-radius: 15px;
-    margin-top: 30px;
-	width: 100%;
-    border: 5px solid white;
-}
+
 
 .icon
 {
@@ -68,4 +62,11 @@ filter: drop-shadow(0px 0px 15px orange);
 .nyil {
     height: 30px;
     margin-right: 10px;
+}
+.keretes
+{
+    border-radius: 15px;
+    margin-top: 30px;
+	width: 100%;
+    border: 5px solid white;
 }
